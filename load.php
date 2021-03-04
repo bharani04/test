@@ -14,7 +14,8 @@
                     <td>'.$row["mail"].'</td>
                     <td>'.$row["mobile"].'</td> 
                     <td>'.$row["gender"].'</td> 
-                    <td>'.$row["state"].'</td>    
+                    <td>'.$row["state"].'</td> 
+                    <td>'.$row["image"].'</td>   
                </tr>';  
         }  
              $output .= '  
